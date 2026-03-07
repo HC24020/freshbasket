@@ -13,6 +13,6 @@ Descripcion
 ##Integrantes
 *otro
 *Victor Alberto Rodriguez Monterrosa RM24004
-*otro
+*Alexander Alonso Zeceña Martinez ZM24004
 *otro
 *otro
