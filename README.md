@@ -1,5 +1,5 @@
 # Projecto FreshBasket
-Descripcion
+Este es la base para el projecto de materia desarrollo de aplicaciones web, para el año 2026 de la Universidad de El Salvador, posteriror mente se haran mas modificacion basados en JavaScript y otras technologias aplicadas a esta materia.
 
 ## Otros
 
